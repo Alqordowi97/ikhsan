@@ -1,8 +1,4 @@
-#div1 {
-  background: url(img_flower.jpg);
-  background-size: 100px 80px;
-  background-repeat: no-repeat;
-}
+
 * {
   box-sizing: border-box;
   /* untuk menjaga konten agar tak keluar layar */
@@ -13,13 +9,3 @@ body,p,h1 {
   color: #fff000;
 }
 
-img {
-  /* untuk membuat oval pada gambar */
-  border-radius: 50%;
-  /* display: block; */
-  margin: auto;
-  width: 70%;
-  max-width: 200px;
-}
-.avatar{
-  position: relative;
