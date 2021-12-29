@@ -1,6 +1,6 @@
 body{
-	background: background.jpg;
-	color: white;
+	background:url (background.jpg);
+
 }
 * {
   box-sizing: border-box;
