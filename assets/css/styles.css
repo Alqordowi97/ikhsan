@@ -1,4 +1,7 @@
-
+body{
+	background: background.jpg;
+	color: white;
+}
 * {
   box-sizing: border-box;
   /* untuk menjaga konten agar tak keluar layar */
